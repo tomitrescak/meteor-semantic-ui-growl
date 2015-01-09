@@ -5,6 +5,8 @@ This is modified jQuery plugin [bootstrap growl jquery plugin](https://github.co
 Extra option is:
     * header: String - which renders the header of the growl message
 
+Forked from [https://github.com/TimHeckel/meteor-bootstrap-growl](https://github.com/TimHeckel/meteor-bootstrap-growl)
+
 ###How to use?
 
 1. Install with `meteor add tomi:semantic-ui-growl`
